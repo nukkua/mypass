@@ -1,0 +1,4 @@
+# conflict demo — safe to delete
+greeting = "hello"
+theme = "dark"
+color = "pink"
