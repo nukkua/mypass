@@ -3,6 +3,7 @@ use std::path::PathBuf;
 use std::process::ExitCode;
 
 fn main() -> ExitCode {
+    println!("pancakes");
     let args = env::args().collect::<Vec<_>>();
     match run(&args) {
         Ok(()) => ExitCode::SUCCESS,
