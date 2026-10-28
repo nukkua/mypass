@@ -1,4 +1,4 @@
 # conflict demo — safe to delete
-greeting = "hello"
+greeting = "hola"
 theme = "dark"
-color = "pink"
+color = "sakura"
